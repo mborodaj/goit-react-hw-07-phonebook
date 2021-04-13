@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Test Contact",
+      "number": "+380503819825",
+      "id": 3
+    },
+    {
+      "name": "Second Contact",
+      "number": "+3805011199222",
+      "id": 4
+    },
+    {
+      "name": "Third Contact",
+      "number": "+380506664411",
+      "id": 5
+    },
+    {
+      "name": "Manchester Orchestra",
+      "number": "+380503819825",
+      "id": 6
+    },
+    {
+      "name": "Fink",
+      "number": "+380503819825",
+      "id": 7
+    }
+  ]
+}
